@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestSuite" thread-count="2" parallel="tests" >
+<listeners>
+    <listener class-name="com.ebanking.utility.Reporting">
+
+    </listener>
+</listeners>
+    <test name="ChromeTest">
+
+        <parameter name="browser" value="chrome"/>
+
+        <classes>
+            <!-- <class name="com.ebanking.testcase.TC_Login_001"/> -->
+            <!--  <class name="com.ebanking.testcase.TC_LoginJson_002"/>-->
+             <class name="com.ebanking.testcase.TC_AddNewCustomer_003"/>
+
+        </classes>
+    </test>
+</suite>

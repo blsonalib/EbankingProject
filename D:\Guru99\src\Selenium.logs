@@ -1,0 +1,4 @@
+16:10:30,207  INFO eBankingTest<strong>{1}</strong>:13 - Page is opened
+16:10:30,373  INFO eBankingTest<strong>{1}</strong>:15 - Entered user name
+16:10:30,444  INFO eBankingTest<strong>{1}</strong>:17 - Entered password
+16:10:32,163  INFO eBankingTest<strong>{1}</strong>:21 - login test is passed

@@ -1,0 +1,17 @@
+{
+  "NewCustomer": [
+    {
+      "cutomerName": "sonali",
+       "date": "19",
+      "month":"5",
+      "year": "1994",
+      "address": "nagpur",
+      "city": "nagpur",
+      "state": "maharashtra",
+      "pin": "123456",
+      "mobileNo": "6546354756",
+      "email": "sona@gmail.com",
+      "password": "63547fsdd"
+    }
+  ]
+}
